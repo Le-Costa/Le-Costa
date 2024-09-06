@@ -8,9 +8,6 @@
   <header>
     <h1> Bem vindo ao meu Readme </h1>
       <p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Costa&hide_progress=true) </p>
-
-
-      
     <h3><b> Conhecimentos :</h3>
       <div align="center">
       <img alt="Python" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
