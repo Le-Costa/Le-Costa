@@ -18,12 +18,8 @@
 </div>
       <br> 
     <h3> Um pouco sobre mim:  </h3>
-    <p> Meu nome é Leticia, tenho 18 anos e cai na área de TI de paraquedas.<br>
-    Quando me formei no Ensino médio, só sabia que queria fazer faculdade, mas não tinha ideia de qual curso, até que aos 45min do segundo tempo,
-    faltando dois dias para o encerramento das incrições, achei uma faculdade que cabia no bolso e escolhi TI.No primeiro dia de curso eu me apaixonei e cá estou no segundo ano do Tecnólogo em Gestão de TI.. <br>
-     </p>
-    <p>
-    Atualmente estou focada em estudar Python e meu objetivo é direcionar meus estudos para machine Learning. Meu conheciemnto técnico ainda é pouco, mas busco sempre me aperfeiçoar &#128170; </p>
+    <p> Meu nome é Leticia, tenho 18 anos e cai na área de TI de paraquedas.<br>Atualmente sou estagiária na Administração Regional do Senac Pr.
+    Atualmente estou focada em estudar Python e meu objetivo é direcionar meus estudos para machine Learning. Meu conhecimento técnico ainda é pouco, mas busco sempre me aperfeiçoar &#128170; </p>
     <ul>
       <li>Estudo baseado em leituras e resolução de problemas 	&#9999;&#65039; </li>
       <li> Amante de Bootcamps 	&#10024; </li>
