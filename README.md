@@ -7,8 +7,10 @@
 <body>
   <header>
     <h1> Bem vindo ao meu Readme </h1>
-       <img src=  https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Costa&hide_progress=true> </p>
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-)](https://github.com/anuraghazra/github-readme-stats)
+              <div style="text-align: center; margin-top: 20px;">
+          <h3>Linguagens mais usadas</h3>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Costa&layout=compact" alt="Linguagens mais usadas" />
+        </div>
     <h3><b> Conhecimentos :</h3>
       <div align="center">
       <img alt="Python" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
