@@ -19,7 +19,7 @@
       <br> 
     <h3> Um pouco sobre mim:  </h3>
     <p> Meu nome é Leticia, tenho 18 anos e cai na área de TI de paraquedas.<br>Atualmente sou estagiária na Administração Regional do Senac Pr.
-    Atualmente estou focada em estudar Python e meu objetivo é direcionar meus estudos para machine Learning. Meu conhecimento técnico ainda é pouco, mas busco sempre me aperfeiçoar &#128170; </p>
+ Estou focada em estudar Python e meu objetivo é direcionar meus estudos para machine Learning. Meu conhecimento técnico ainda é pouco, mas busco sempre me aperfeiçoar &#128170; </p>
     <ul>
       <li>Estudo baseado em leituras e resolução de problemas 	&#9999;&#65039; </li>
       <li> Amante de Bootcamps 	&#10024; </li>
