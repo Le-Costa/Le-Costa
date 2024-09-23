@@ -14,8 +14,8 @@
     <h3><b> Conhecimentos :</h3>
       <div align="center">
       <img alt="Python" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
-      <img alt="Canva" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Canva.svg">
-      <img alt="GITBash" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg">
+      <img alt="Canva" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Canva.svg">
+      <img alt="GITBash" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/GITBash.svg">
           
 </div>
       <br> 
