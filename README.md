@@ -15,6 +15,8 @@
       <div align="center">
       <img alt="Python" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
       <img alt="Canva" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Canva.svg">
+      <img alt="GITBash" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg">
+          
 </div>
       <br> 
     <h3> Um pouco sobre mim:  </h3>
