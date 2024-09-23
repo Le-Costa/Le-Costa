@@ -11,7 +11,7 @@
           <h3>Linguagens mais usadas</h3>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Costa&layout=compact" alt="Linguagens mais usadas" />
         </div>
-    <h3><b> Conhecimentos :</h3>
+    <h3>Conhecimentos :</h3>
       <div align="center">
       <img alt="Python" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
       <img alt="Canva" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Canva.svg">
