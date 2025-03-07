@@ -22,19 +22,9 @@
 </div>
       <br> 
     <h3> Um pouco sobre mim:  </h3>
-    <p> Meu nome é Leticia, tenho 18 anos e cai na área de TI de paraquedas.<br>Atualmente sou estagiária de BI na Caltim Fertlizantes.
- Estou focada nos estudos de Pythone ferramentas de análise dados, meu objetivo é me consolidar na área de análise dados. Meu conhecimento técnico ainda é pouco, mas busco sempre me aperfeiçoar &#128170; </p>
-    <ul>
-      <li>Estudo baseado em leituras e resolução de problemas 	&#9999;&#65039; </li>
-      <li> Amante de Bootcamps 	&#10024; </li>
-      <li>Conhecimento nunca é de mais  &#128214; </li>
-      <li> Em uma briga árdua para aprender a trabalhar corretamente com o Git. </li>
-    </ul>
-      
-
-      
-    
-                      
+    <p> Há um ano na área de TI, fui estgiária de suporte ao ERP no SENAC PR onde adquiri conhecimentos na área de negócio. Atualmente sou estagiária de BI
+    na Caltim fertilizantes onde me inseri na área de dados. Estou buscando me aperfeiçoar na área direcionando meus estudos para linguagem Pyhton, SQL, Excel, modelagem e análise de dados.
+    </p>                 
   </header>
 
 
