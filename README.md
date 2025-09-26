@@ -6,12 +6,12 @@
 </head>
 <body>
   <header>
-    <h1> Bem vindo ao meu Readme </h1>
+    <h1> Welcome:   </h1>
               <div style="text-align: center; margin-top: 20px;">
-          <h3>Linguagens mais usadas</h3>
+          <h3>Used Languages:</h3>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Costa&layout=compact" alt="Linguagens mais usadas" />
         </div>
-    <h3>Conhecimentos :</h3>
+    <h3>Knowleges :</h3>
       <div align="center">
           <img alt="Canva" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Canva.svg">
           <img alt="Python" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
@@ -21,9 +21,9 @@
           
 </div>
       <br> 
-    <h3> Um pouco sobre mim:  </h3>
-    <p> Há um ano na área de TI, fui estgiária de suporte ao ERP no SENAC PR onde adquiri conhecimentos na área de negócio. Atualmente sou estagiária de BI
-    na Caltim fertilizantes onde me inseri na área de dados. Estou buscando me aperfeiçoar na área direcionando meus estudos para linguagem Pyhton, SQL, Excel, modelagem e análise de dados.
+    <h3> About me:  </h3>
+    <p> I've been working in the IT field for almost two years. I started as an intern at Senac PR, where I had the opportunity to gain knowledge and experience with SQL and Power BI. It was there that I decided I wanted to be part of the Data Science world too! Right     now, I am a Data Analysis apprentice at Bosch Curitiba. I've gained a lot of experience, learning about data analysis and its tools such as Python, Power BI, VBA, and specific industry knowledge.<br>
+        My goal is to become a Data Scientist, and this is the course I chose to support my studies.
     </p>                 
   </header>
 
