@@ -1,40 +1,45 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="pt-br">
-<head>
-    <meta name="description" content="Read me Leticia Costa">
-  <meta name="keywords" content="Python,machine learning,estudand, desenvolvimento">  
-</head>
-<body>
-  <header>
-    <h1> Welcome:   </h1>
-              <div style="text-align: center; margin-top: 20px;">
-          <h3>Used Languages:</h3>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Costa&layout=compact" alt="Linguagens mais usadas" />
-        </div>
-    <h3>Knowleges :</h3>
-      <div align="center">
-          <img alt="Canva" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Canva.svg">
-          <img alt="Python" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
-          <img alt="GITBash" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/raw/main/Light/MySQL.svg">
-         <img alt="GITBash" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/raw/main/Light/SQL%20Server.svg">
-         <img alt="GITBash" height="60" width="Width" src="https://github.com/gui-bus/TechIcons/raw/main/Light/Power%20BI.svg">
-          
+# Olá, eu sou a Letícia 👋
+
+**Analista de Dados** | Power BI · SQL · Python
+
+Transformo dados operacionais em dashboards, indicadores e automações que apoiam decisões. Atuo com análise de dados na indústria, em Curitiba, com experiência nas áreas de Qualidade (Garantia) e Logística, e sou formada em Gestão de Tecnologia da Informação.
+
+<details>
+<summary>🌎 <b>English</b></summary>
+<br>
+
+**Data Analyst** | Power BI · SQL · Python
+
+I turn operational data into dashboards, KPIs and automations that support decision-making. I work with data analysis in the manufacturing industry in Curitiba, Brazil, with experience in Quality (Warranty) and Logistics, and I hold a degree in Information Technology Management.
+
+</details>
+
+---
+
+### 🛠️ Ferramentas | Tools
+
+<div align="center">
+  <img alt="Power BI" height="55" src="https://github.com/gui-bus/TechIcons/raw/main/Light/Power%20BI.svg">
+  <img alt="Python" height="55" src="https://github.com/gui-bus/TechIcons/raw/main/Light/Python.svg">
+  <img alt="SQL Server" height="55" src="https://github.com/gui-bus/TechIcons/raw/main/Light/SQL%20Server.svg">
+  <img alt="MySQL" height="55" src="https://github.com/gui-bus/TechIcons/raw/main/Light/MySQL.svg">
 </div>
-      <br> 
-    <h3> About me:  </h3>
-    <p> I've been working in the IT field for almost three years. I started as an intern at Senac PR, where I had the opportunity to gain knowledge and experience with SQL and Power BI. It was there that I decided I wanted to be part of the Data Science world too! Right     now, I am a Data Analysis apprentice at Bosch Curitiba. I've gained a lot of experience, learning about data analysis and its tools such as Python, Power BI, VBA,statistics and specific industry knowledge.<br>
-        My goal is to become a Data Scientist, and this is the course I chose to support my studies.
-    </p>                 
-  </header>
 
+<p align="center">Power BI · DAX · SQL · Python (pandas) · Excel · Git</p>
 
+---
 
+### 📊 Projetos | Projects
 
+| Projeto | Descrição | Ferramentas |
+|---|---|---|
+| [**Acidentes nas rodovias federais (PRF)**](https://github.com/Le-Costa/PortfolioDadosPRF) | Tratamento e análise dos dados abertos de acidentes da PRF em 2024, com dashboard em Power BI. <br>*Treatment and analysis of Brazilian federal highway accident data (2024), with a Power BI dashboard.* | Python, pandas, Excel, Power BI |
+| [**Smart Operations Analytics**](https://github.com/Le-Costa/Smart_Operations_Analytics) 🚧 | Projeto de ponta a ponta para uma indústria fictícia: tratamento de dados, KPIs operacionais e previsão de demanda. <br>*End-to-end project for a fictional manufacturer: data cleaning, operational KPIs and demand forecasting.* | Python, pandas, SQL, Power BI |
 
+🚧 = em andamento | *in progress*
 
+---
 
+### 📫 Contato | Contact
 
-  
-</body>
-
-</html>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiakistenmacher)
