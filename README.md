@@ -1,4 +1,4 @@
-# Olá, eu sou a Letícia 👋
+# Olá, eu sou a Letícia!!
 
 **Analista de Dados** | Power BI · SQL · Python
 
